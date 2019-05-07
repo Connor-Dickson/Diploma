@@ -58,9 +58,9 @@ namespace Tests {
         [Test]
         public void FindAllGreaterThanAgeTest() {
             List<Person> ans1 = new List<Person>();
-            ans1.Add(team.People[2]);
             ans1.Add(team.People[3]);
             ans1.Add(team.People[7]);
+            ans1.Add(team.People[2]);
 
             Assert.AreEqual(ans1, exercises.FindAllGreaterThanAge(team, 100));
         }

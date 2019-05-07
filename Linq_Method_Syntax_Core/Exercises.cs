@@ -57,15 +57,15 @@ namespace Linq_Method_Syntax_Core {
             return team.People[0];
         }
 
-        // return Last person whose Lastname begins with pattern
+        // return Last person whose Lastname contains pattern
         // return null if none exists
         public Person FindLastnamePatternLast(Team team, string pattern) {
             return team.People[0];
         }
 
-        // return all numbers between num1 and num2
-        // if num1 = 5, num2 = 8 and list = {1, 5, 6, 3, 8, 90, 76}
-        // should return {5, 6, 3}
+        // return all numbers between positions of the first occurences of num1 and num2
+        // if num1 = 5, num2 = 8 and list = {1, 5, 16, 3, 8, 90, 76}
+        // should return {5, 16, 3}
         public IEnumerable<int> NumbersInbetween(IEnumerable<int> list, int num1, int num2) {
             return list;
         }
