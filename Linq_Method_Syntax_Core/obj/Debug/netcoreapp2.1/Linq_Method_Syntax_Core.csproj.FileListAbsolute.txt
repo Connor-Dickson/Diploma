@@ -1,9 +1,0 @@
-C:\Users\anguyen\Source\Repos\Dip-Linq-Exercises\Linq_Method_Syntax_Core\obj\Debug\netcoreapp2.1\Linq_Method_Syntax_Core.csprojAssemblyReference.cache
-C:\Users\anguyen\Source\Repos\Dip-Linq-Exercises\Linq_Method_Syntax_Core\obj\Debug\netcoreapp2.1\Linq_Method_Syntax_Core.csproj.CoreCompileInputs.cache
-C:\Users\anguyen\Source\Repos\Dip-Linq-Exercises\Linq_Method_Syntax_Core\obj\Debug\netcoreapp2.1\Linq_Method_Syntax_Core.AssemblyInfoInputs.cache
-C:\Users\anguyen\Source\Repos\Dip-Linq-Exercises\Linq_Method_Syntax_Core\obj\Debug\netcoreapp2.1\Linq_Method_Syntax_Core.AssemblyInfo.cs
-C:\Users\anguyen\Source\Repos\Dip-Linq-Exercises\Linq_Method_Syntax_Core\bin\Debug\netcoreapp2.1\Linq_Method_Syntax_Core.deps.json
-C:\Users\anguyen\Source\Repos\Dip-Linq-Exercises\Linq_Method_Syntax_Core\bin\Debug\netcoreapp2.1\Linq_Method_Syntax_Core.dll
-C:\Users\anguyen\Source\Repos\Dip-Linq-Exercises\Linq_Method_Syntax_Core\bin\Debug\netcoreapp2.1\Linq_Method_Syntax_Core.pdb
-C:\Users\anguyen\Source\Repos\Dip-Linq-Exercises\Linq_Method_Syntax_Core\obj\Debug\netcoreapp2.1\Linq_Method_Syntax_Core.dll
-C:\Users\anguyen\Source\Repos\Dip-Linq-Exercises\Linq_Method_Syntax_Core\obj\Debug\netcoreapp2.1\Linq_Method_Syntax_Core.pdb
